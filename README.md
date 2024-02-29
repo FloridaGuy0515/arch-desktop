@@ -15,6 +15,8 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `linux`
    - `linux-firmware`
   ### Extra
+   - `flatpak-kcm`
+     * `flatpak`
    - [`plasma-meta`](https://archlinux.org/packages/extra/any/plasma-meta/) (meta package)
   ### Multilib
    [(Must be manually enabled)](https://wiki.archlinux.org/title/Official_repositories#Enabling_multilib)
