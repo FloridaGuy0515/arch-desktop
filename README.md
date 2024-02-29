@@ -23,6 +23,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `git`
    - `mesa`
    - `nano-syntax-highlighting`
+   - `neofetch`
    - `networkmanager`
    - [`plasma-meta`](https://archlinux.org/packages/extra/any/plasma-meta/) (meta package)
    - `vulkan-radeon`
