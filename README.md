@@ -20,6 +20,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `firefox`
    - `flatpak`
    - `flatpak-kcm`
+   - `git`
    - `nano-syntax-highlighting`
    - `networkmanager`
    - [`plasma-meta`](https://archlinux.org/packages/extra/any/plasma-meta/) (meta package)
