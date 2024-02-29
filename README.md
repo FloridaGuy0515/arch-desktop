@@ -9,13 +9,13 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
  <summary>(Click to expand)</summary>
 
   https://archlinux.org/packages/
-  ## Core
+  ### Core
    - `amd-ucode`
    - [`base`](https://archlinux.org/packages/core/any/base/) (meta package)
    - `linux`
    - `linux-firmware`
-  ## Extra
-  ## Multilib
+  ### Extra
+  ### Multilib
    [(Must be manually enabled)](https://wiki.archlinux.org/title/Official_repositories#Enabling_multilib)
 </details>
 
