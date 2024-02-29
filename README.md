@@ -15,11 +15,13 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `linux`
    - `linux-firmware`
   ## Extra
+  ## Multilib
+   [(Must be manually enabled)](https://wiki.archlinux.org/title/Official_repositories#Enabling_multilib)
 </details>
 
 ## Useful Stuff
 <details>
- <summary>Firefox on KDE Plasma uses incorrect File Picker</summary>
+ <summary>Firefox on KDE Plasma uses incorrect File Picker (Click to expand)</summary>
   
   *(Working as of Firefox Version 123.0)* <br />
   - Go to `about:config` and set `widget.use-xdg-desktop-portal.file-picker` from `2` to `1`. <br />
