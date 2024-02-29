@@ -14,9 +14,11 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - [`base`](https://archlinux.org/packages/core/any/base/) (meta package)
    - `linux`
    - `linux-firmware`
+   - `nano`
   ### Extra
    - `flatpak`
    - `flatpak-kcm`
+   - `nano-syntax-highlighting`
    - [`plasma-meta`](https://archlinux.org/packages/extra/any/plasma-meta/) (meta package)
   ### Multilib
    [(Must be manually enabled)](https://wiki.archlinux.org/title/Official_repositories#Enabling_multilib)
