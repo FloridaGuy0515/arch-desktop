@@ -27,6 +27,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `neofetch`
    - `networkmanager`
    - [`plasma-meta`](https://archlinux.org/packages/extra/any/plasma-meta/) (meta package)
+   - `ufw`
    - `vulkan-radeon`
    - `xf86-video-amdgpu`
    - `xwaylandvideobridge`
