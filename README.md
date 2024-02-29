@@ -21,6 +21,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `flatpak`
    - `flatpak-kcm`
    - `git`
+   - `gwenview`
    - `mesa`
    - `nano-syntax-highlighting`
    - `neofetch`
