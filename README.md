@@ -16,6 +16,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `linux-firmware`
    - `nano`
   ### Extra
+   - `firefox`
    - `flatpak`
    - `flatpak-kcm`
    - `nano-syntax-highlighting`
