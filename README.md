@@ -12,6 +12,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
   ### Core
    - `amd-ucode`
    - [`base`](https://archlinux.org/packages/core/any/base/) (meta package)
+   - `base-devel` (meta package)
    - `linux`
    - `linux-firmware`
    - `nano`
