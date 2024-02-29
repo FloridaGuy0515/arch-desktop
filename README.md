@@ -35,7 +35,9 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `lib32-vulkan-radeon `
    - `steam`
   ### AUR
+   - `paru`
   ### Flatpak
+   - `vesktop`
 </details>
 
 ## Useful Stuff
