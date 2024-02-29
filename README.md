@@ -21,12 +21,18 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `flatpak`
    - `flatpak-kcm`
    - `git`
+   - `mesa`
    - `nano-syntax-highlighting`
    - `networkmanager`
    - [`plasma-meta`](https://archlinux.org/packages/extra/any/plasma-meta/) (meta package)
+   - `vulkan-radeon`
+   - `xf86-video-amdgpu`
    - `xwaylandvideobridge`
   ### Multilib
    [(Must be manually enabled)](https://wiki.archlinux.org/title/Official_repositories#Enabling_multilib)
+   - `lib32-mesa`
+   - `lib32-vulkan-radeon `
+   - `steam`
   ### AUR
   ### Flatpak
 </details>
