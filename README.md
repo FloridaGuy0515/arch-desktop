@@ -15,7 +15,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `linux`
    - `linux-firmware`
   ### Extra
-   - [`plasma`](https://archlinux.org/groups/x86_64/plasma/) (group)
+   - [`plasma-meta`](https://archlinux.org/packages/extra/any/plasma-meta/) (meta package)
   ### Multilib
    [(Must be manually enabled)](https://wiki.archlinux.org/title/Official_repositories#Enabling_multilib)
 </details>
