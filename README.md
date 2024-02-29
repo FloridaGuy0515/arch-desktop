@@ -1,13 +1,17 @@
 # arch-desktop
 Information and configuration files for my Arch Linux desktop installation.
 
+## Hardware Specs
+https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
+
+## Packages
 <details>
- <summary>Packages</summary>
+ <summary>(Click to expand)</summary>
 
   https://archlinux.org/packages/
   ## Core
    - `amd-ucode`
-   - [`base`](https://archlinux.org/packages/core/any/base/) 
+   - [`base`](https://archlinux.org/packages/core/any/base/) (meta package)
    - `linux`
    - `linux-firmware`
   ## Extra
