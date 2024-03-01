@@ -22,10 +22,12 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `flatpak-kcm`
    - `git`
    - `gwenview`
+   - `i2c-tools`
    - `mesa`
    - `nano-syntax-highlighting`
    - `neofetch`
    - `networkmanager`
+   - `openrgb`
    - [`plasma-meta`](https://archlinux.org/packages/extra/any/plasma-meta/) (meta package)
    - `ufw`
    - `vulkan-radeon`
