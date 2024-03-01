@@ -6,7 +6,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
 
 ## Packages
 <details>
- <summary>(Click to expand)</summary>
+ <summary>A list of my explicitly installed packages (Click to expand)</summary>
 
   https://archlinux.org/packages/
   ### Core
