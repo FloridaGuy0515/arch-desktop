@@ -30,7 +30,6 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `ufw`
    - `vulkan-radeon`
    - `xf86-video-amdgpu`
-   - `xwaylandvideobridge`
   ### Multilib
    [(Must be manually enabled)](https://wiki.archlinux.org/title/Official_repositories#Enabling_multilib)
    - `lib32-mesa`
