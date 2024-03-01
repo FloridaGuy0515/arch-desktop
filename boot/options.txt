@@ -1,1 +1,1 @@
- root=/dev/nvme0n1p2 rootflags=subvol=@root rw initrd=\initramfs-linux.img
+ root=/dev/nvme0n1p2 rootflags=subvol=@root rw initrd=\amd-ucode.img initrd=\initramfs-linux.img
