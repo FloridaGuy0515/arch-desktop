@@ -24,6 +24,8 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `git`
    - `gwenview`
    - `i2c-tools`
+   - `kio-gdrive`
+   - `libreoffice-fresh`
    - `mesa`
    - `nano-syntax-highlighting`
    - `neofetch`
