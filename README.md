@@ -13,6 +13,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `amd-ucode`
    - [`base`](https://archlinux.org/packages/core/any/base/) (meta package)
    - `base-devel` (meta package)
+   - `btrfs-progs`
    - `linux`
    - `linux-firmware`
    - `nano`
