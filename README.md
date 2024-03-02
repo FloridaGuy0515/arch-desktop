@@ -1,4 +1,6 @@
 # arch-desktop
+Information and configuration files for my Arch Linux desktop installation.
+
 ## Hardware Specs
 https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
 
