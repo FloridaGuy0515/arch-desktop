@@ -1,21 +1,21 @@
 # Static information about the filesystems.
 # See fstab(5) for details.
 
-# <file system> <dir> <type> <options> <dump> <pass>
+# <file system>                           <dir>        <type> <options>                                                                                            <dump> <pass>
 # /dev/nvme0n1p1
-UUID=E1E9-F0BD                            /boot        vfat  rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=ascii,shortname=mixed,utf8,errors=remount-ro 0 2
+UUID=E1E9-F0BD                            /boot        vfat   rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=ascii,shortname=mixed,utf8,errors=remount-ro 0     2
 
 # /dev/nvme0n1p2
-/dev/nvme0n1p2                            /            btrfs rw,noatime,compress=lzo,ssd,discard=async,space_cache=v2,subvolid=256,subvol=/@root                   0 0
+/dev/nvme0n1p2                            /            btrfs  rw,noatime,compress=lzo,ssd,discard=async,space_cache=v2,subvolid=256,subvol=/@root                   0     0
 
 # /dev/nvme0n1p2
-/dev/nvme0n1p2                            /var         btrfs rw,noatime,compress=lzo,ssd,discard=async,space_cache=v2,subvolid=257,subvol=/@var                    0 0
+/dev/nvme0n1p2                            /var         btrfs  rw,noatime,compress=lzo,ssd,discard=async,space_cache=v2,subvolid=257,subvol=/@var                    0     0
 
 # /dev/nvme0n1p2
-/dev/nvme0n1p2                            /home        btrfs rw,noatime,compress=lzo,ssd,discard=async,space_cache=v2,subvolid=258,subvol=/@home                   0 0
+/dev/nvme0n1p2                            /home        btrfs  rw,noatime,compress=lzo,ssd,discard=async,space_cache=v2,subvolid=258,subvol=/@home                   0     0
 
 # /dev/nvme0n1p2
-/dev/nvme0n1p2                            /.snapshots  btrfs rw,noatime,compress=lzo,ssd,discard=async,space_cache=v2,subvolid=259,subvol=/@snapshots              0 0
+/dev/nvme0n1p2                            /.snapshots  btrfs  rw,noatime,compress=lzo,ssd,discard=async,space_cache=v2,subvolid=259,subvol=/@snapshots              0     0
 
 #HDD-1TB
-UUID=9d06c95f-5b50-45e5-830a-b87ef0340c73 /mnt/HDD-1TB btrfs rw,noatime,compress=lzo,nossd,discard=async,space_cache=v2                                            0 0
+UUID=9d06c95f-5b50-45e5-830a-b87ef0340c73 /mnt/HDD-1TB btrfs  rw,noatime,compress=lzo,nossd,discard=async,space_cache=v2                                            0     0
