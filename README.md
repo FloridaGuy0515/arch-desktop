@@ -32,6 +32,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `networkmanager`
    - `openrgb`
    - [`plasma-meta`](https://archlinux.org/packages/extra/any/plasma-meta/) (meta package)
+   - `shotcut`
    - `ufw`
    - `vulkan-radeon`
    - `xf86-video-amdgpu`
