@@ -43,8 +43,8 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `steam`
   ### AUR
    - `paru`
-  ### Flatpak
    - `vesktop`
+  ### Flatpak
 </details>
 
 ## Useful Stuff
