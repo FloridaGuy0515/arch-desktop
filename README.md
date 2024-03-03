@@ -18,6 +18,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `linux-firmware`
    - `nano`
   ### Extra
+   - `ffmpegthumbs`
    - `firefox`
    - `flatpak`
    - `flatpak-kcm`
