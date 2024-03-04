@@ -50,9 +50,15 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
 
 ## Useful Stuff
 <details>
+ <summary>SDDM - Disable all displays except for primary on login screen (Click to expand)</summary>
+
+  - See configuration file: /usr/share/sddm/scripts/Xsetup
+</details>
+
+<details>
  <summary>Firefox on KDE Plasma uses incorrect File Picker (Click to expand)</summary>
   
-  *(Working as of Firefox Version 123.0)* <br />
   - Go to `about:config` and set `widget.use-xdg-desktop-portal.file-picker` from `2` to `1`. <br />
+  *(Working as of Firefox Version 123.0)* <br />
   https://wiki.archlinux.org/title/Firefox#KDE_integration
 </details>
