@@ -46,6 +46,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `paru`
    - `vesktop`
   ### Flatpak
+   - `com.spotify.Client`
 </details>
 
 ## Useful Stuff
