@@ -53,7 +53,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
 <details>
  <summary>SDDM - Disable all displays except for primary on login screen (Click to expand)</summary>
 
-  - See configuration file: /usr/share/sddm/scripts/Xsetup
+  - See configuration file: `/usr/share/sddm/scripts/Xsetup`
 </details>
 
 <details>
