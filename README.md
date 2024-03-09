@@ -18,6 +18,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `linux-firmware`
    - `nano`
   ### Extra
+   - `alsa-utils`
    - `ffmpegthumbs`
    - `firefox`
    - `flatpak`
@@ -25,6 +26,8 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `git`
    - `gwenview`
    - `i2c-tools`
+   - `kcolorchooser`
+   - `kdegraphics-thumbnailers`
    - `kio-gdrive`
    - `libreoffice-fresh`
    - `mesa`
@@ -34,6 +37,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `openrgb`
    - [`plasma-meta`](https://archlinux.org/packages/extra/any/plasma-meta/) (meta package)
    - `shotcut`
+   - `spectacle`
    - `ufw`
    - `vulkan-radeon`
    - `xf86-video-amdgpu`
