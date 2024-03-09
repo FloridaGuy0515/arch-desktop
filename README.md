@@ -23,6 +23,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `firefox`
    - `flatpak`
    - `flatpak-kcm`
+   - `fwupd`
    - `git`
    - `gwenview`
    - `i2c-tools`
