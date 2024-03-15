@@ -48,6 +48,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `lib32-vulkan-radeon `
    - `steam`
   ### AUR
+   - `mkinitcpio-firmware`
    - `paru`
    - `vesktop`
   ### Flatpak
