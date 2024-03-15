@@ -18,7 +18,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `linux-firmware`
    - `nano`
   ### Extra
-   - `alsa-utils`
+   - `ark`
    - `ffmpegthumbs`
    - `firefox`
    - `flatpak`
