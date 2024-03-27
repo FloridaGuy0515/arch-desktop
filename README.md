@@ -30,6 +30,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `kcolorchooser`
    - `kdegraphics-thumbnailers`
    - `kio-gdrive`
+   - `libdvdcss`
    - `libreoffice-fresh`
    - `mesa`
    - `nano-syntax-highlighting`
