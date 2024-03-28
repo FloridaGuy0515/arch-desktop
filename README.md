@@ -52,6 +52,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
   ### AUR
    - `mkinitcpio-firmware`
    - `paru`
+   - `ventoy`
    - `vesktop`
   ### Flatpak
    - `com.spotify.Client`
