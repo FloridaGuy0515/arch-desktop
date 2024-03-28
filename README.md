@@ -38,6 +38,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `networkmanager`
    - `openrgb`
    - [`plasma-meta`](https://archlinux.org/packages/extra/any/plasma-meta/) (meta package)
+   - `qemu-full`
    - `shotcut`
    - `spectacle`
    - `ufw`
