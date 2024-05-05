@@ -35,6 +35,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `libva-mesa-driver`
    - `libva-utils`
    - `libva-vdpau-driver`
+   - `libvdpau-va-gl`
    - `mesa`
    - `mesa-vdpau`
    - `nano-syntax-highlighting`
