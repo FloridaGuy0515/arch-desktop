@@ -34,6 +34,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `libreoffice-fresh`
    - `libva-mesa-driver`
    - `libva-utils`
+   - `libva-vdpau-driver`
    - `mesa`
    - `mesa-vdpau`
    - `nano-syntax-highlighting`
