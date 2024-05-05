@@ -33,6 +33,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `libdvdcss`
    - `libreoffice-fresh`
    - `libva-mesa-driver`
+   - `libva-utils`
    - `mesa`
    - `mesa-vdpau`
    - `nano-syntax-highlighting`
