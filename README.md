@@ -45,6 +45,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `shotcut`
    - `spectacle`
    - `ufw`
+   - `vdpauinfo`
    - `vulkan-radeon`
    - `xf86-video-amdgpu`
   ### Multilib
