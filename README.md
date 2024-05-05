@@ -34,6 +34,7 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `libreoffice-fresh`
    - `libva-mesa-driver`
    - `mesa`
+   - `mesa-vdpau`
    - `nano-syntax-highlighting`
    - `neofetch`
    - `networkmanager`
