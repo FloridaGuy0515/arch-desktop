@@ -32,10 +32,12 @@ https://pcpartpicker.com/user/FloridaGuy/saved/XdjMCJ
    - `kio-gdrive`
    - `libdvdcss`
    - `libreoffice-fresh`
+   - `libva-mesa-driver`
    - `mesa`
    - `nano-syntax-highlighting`
    - `neofetch`
    - `networkmanager`
+   - `obs-studio`
    - `openrgb`
    - [`plasma-meta`](https://archlinux.org/packages/extra/any/plasma-meta/) (meta package)
    - `qemu-full`
